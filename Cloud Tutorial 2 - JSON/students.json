@@ -1,0 +1,37 @@
+{
+    "Noor_Amory": {
+        "name": "Noor",
+        "familyname": "Amory",
+        "braudemail": "Noor.Amory@e.braude.ac.il",
+        "ListOfCourses": ["CyrptoLogy", "Cloud", "WEB"],
+        "SpacialLink": "linkedin.com/in/noor-amory-35877925a"
+    },
+    "Maher_Salman": {
+        "name": "Maher",
+        "familyname": "Salman",
+        "braudemail": "Maher.Salman@e.braude.ac.il",
+        "ListOfCourses": ["Machine Learning", "Cloud", "WEB"],
+        "SpacialLink": "linkedin.com/in/maher-salman/"
+    },
+    "Samira_dabbah": {
+        "name": "Samira",
+        "familyname": "dabbah",
+        "braudemail": "Samira.dabbah@e.braude.ac.il",
+        "ListOfCourses": ["Machine Learning", "Cloud", "WEB"],
+        "SpacialLink": "https://w3.braude.ac.il/"
+    },
+    "Adan_Butto": {
+        "name": "Adan",
+        "familyname": "Butto",
+        "braudemail": "Adan.butto@e.braude.ac.il",
+        "ListOfCourses": ["Machine Learning", "Cloud", "E-commerce"],
+        "SpacialLink": "neetcode.io"
+    },
+    "Mohameed_egbaria": {
+        "name": "Mohameed",
+        "familyname": "egbaria",
+        "braudemail": "Mohameed.egbaria@e.braude.com",
+        "ListOfCourses": ["Cloud", "WEB"],
+        "SpacialLink": "https://w3.braude.ac.il/"
+    }
+}

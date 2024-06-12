@@ -33,5 +33,12 @@
         "braudemail": "Mohameed.egbaria@e.braude.com",
         "ListOfCourses": ["Cloud", "WEB"],
         "SpacialLink": "https://w3.braude.ac.il/"
+    },
+     "Asad Saffouri": {
+        "name": "asad",
+        "familyname": "saffouri",
+        "braudemail": "Asad.Saffouri@e.braude.com",
+        "ListOfCourses": ["Cloud", "WEB","CyrptoLogy"],
+        "SpacialLink": ""
     }
 }

@@ -1,6 +1,3 @@
-Based on the provided details, here is a README.md file for your project:
-
-```markdown
 # OnShape Insights Dashboard
 
 ## Overview
